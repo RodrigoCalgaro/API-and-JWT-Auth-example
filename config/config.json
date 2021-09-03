@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "login-crud-example",
+    "password": "example",
+    "database": "login-crud-example",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "login-crud-example",
+    "password": "example",
+    "database": "login-crud-example-test",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "login-crud-example",
+    "password": "example",
+    "database": "login-crud-example-prod",
+    "host": "127.0.0.1",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}

@@ -1,0 +1,1 @@
+La carpeta config se debe agregar al archivo .gitignore si se utiliza un repositorio público.
